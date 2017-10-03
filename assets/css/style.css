@@ -1,0 +1,19 @@
+body{
+	background-color: grey;
+	font-family: "Engagement";
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.crystal-image{
+	width: 300px;
+	height: 300px;
+}
+
+.page-header{
+	background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2766647.jpg");
+	font-size: 100px;
+	text-align: center;
+	font-weight: bolder;
+	text-shadow: 2px 2px white;
+}
